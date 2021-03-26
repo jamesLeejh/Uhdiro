@@ -16,7 +16,7 @@ class MainViewController: UIViewController, UICollectionViewDelegate, UICollecti
     @IBOutlet weak var collectionView: UICollectionView!
     var collectionDic = [parseContent]()
     
-    @IBOutlet weak var topView          : UIView!
+    @IBOutlet weak var topView          : UIView! 
     @IBOutlet weak var bottomView       : UIView!
     @IBOutlet weak var alphaView        : UIView!
     @IBOutlet weak var contentView      : UIView!
