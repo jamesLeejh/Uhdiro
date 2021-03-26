@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>364398175055-ig6ntvst324i232boecelp3pv7567sdo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.364398175055-ig6ntvst324i232boecelp3pv7567sdo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>364398175055-96lmtonv1uk4hiha60f5srsvi9r818sr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAITAT8qKfmuKt2w8itcZ5MRFL6CkI7CQQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>364398175055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.beaconyx.festivalapp</string>
+	<key>PROJECT_ID</key>
+	<string>festival-app-250407</string>
+	<key>STORAGE_BUCKET</key>
+	<string>festival-app-250407.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:364398175055:ios:3755213321eaec7a0ddb3a</string>
+	<key>DATABASE_URL</key>
+	<string>https://festival-app-250407.firebaseio.com</string>
+</dict>
+</plist>
